@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/gitFragment"
+        android:enabled="true"
+        android:icon="@drawable/git_icon"
+        android:title="Git"/>
+    <item
+        android:id="@+id/commandFragment"
+        android:enabled="true"
+        android:icon="@drawable/command"
+        android:title="Commands"/>
+    <item
+        android:id="@+id/aboutFragment"
+        android:enabled="true"
+        android:icon="@drawable/about"
+        android:title="About"/>
+
+</menu>
