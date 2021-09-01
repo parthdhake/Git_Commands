@@ -9,8 +9,6 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.navigation.fragment.navArgs
 import com.qourall.gitcommands_cheatsheet.R
-import com.qourall.gitcommands_cheatsheet.data.SecondaryModel
-import kotlinx.android.synthetic.main.fragment_detail.*
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.IOException

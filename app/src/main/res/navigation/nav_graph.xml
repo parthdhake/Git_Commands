@@ -14,7 +14,11 @@
         android:id="@+id/gitFragment"
         android:name="com.qourall.gitcommands_cheatsheet.ui.fragment.GitFragment"
         android:label="fragment_git"
-        tools:layout="@layout/fragment_git" />
+        tools:layout="@layout/fragment_git" >
+        <action
+            android:id="@+id/action_gitFragment_to_commandFragment"
+            app:destination="@id/commandFragment" />
+    </fragment>
     <fragment
         android:id="@+id/commandFragment"
         android:name="com.qourall.gitcommands_cheatsheet.ui.fragment.CommandFragment"
@@ -23,6 +27,10 @@
         <action
             android:id="@+id/action_commandFragment_to_detailFragment"
             app:destination="@id/detailFragment" />
+        <argument
+            android:name="command"
+            app:argType="string"
+            android:defaultValue="default" />
 
     </fragment>
     <fragment

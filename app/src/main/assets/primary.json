@@ -10,7 +10,7 @@
     },
     {
       "value": "revert",
-      "label": "revert/reset"
+      "label": "revert"
     },
     {
       "value": "initialize",
@@ -22,15 +22,15 @@
     },
     {
       "value": "show",
-      "label": "show/view"
+      "label": "show"
     },
     {
       "value": "delete",
-      "label": "delete/remove"
+      "label": "delete"
     },
     {
       "value": "compareCommits",
-      "label": "compare two commits"
+      "label": "compareCommits"
     },
     {
       "value": "configure",
