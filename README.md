@@ -6,4 +6,8 @@ Git Commands - CheatSheet
 
 ## Technology Used
 - Kotlin
+- Fragment
+- Navigation Components
+- Safe Args
+- RecyclerView
 - Json
