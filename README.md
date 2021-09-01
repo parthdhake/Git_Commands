@@ -1,9 +1,9 @@
 Git Commands - CheatSheet
 
-##Features
+## Features
 - Easily Search any Git Command. 
 - View Usage and implementation of Git Command
 
-##Technology Used
+## Technology Used
 - Kotlin
 - Json
