@@ -10,7 +10,7 @@ Git Commands - CheatSheet
 - Navigation Components
 - Safe Args
 - RecyclerView
-- Json
+- JSON
 
 ## ScreenShots
 
