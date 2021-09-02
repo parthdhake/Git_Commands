@@ -19,7 +19,7 @@ import java.time.LocalDate
 class DetailFragment : Fragment() {
 
 
-    val args : DetailFragmentArgs by navArgs()
+    private val args : DetailFragmentArgs by navArgs()
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
